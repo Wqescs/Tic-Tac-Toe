@@ -1,5 +1,3 @@
-# Tic-Tac-Toe
-Tic Tac Toe in the concole
 #include <iostream>
 
 void printField(char field[3][3])//create field
